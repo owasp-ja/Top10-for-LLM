@@ -1,4 +1,4 @@
-#OWASP Top 10 for LLM
+# OWASP Top 10 for LLM
 Version 1.0 
 Published: August 1, 2023
 Japanese Published: August 28, 2023
