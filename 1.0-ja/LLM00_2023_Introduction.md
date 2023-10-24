@@ -1,8 +1,8 @@
 # OWASP Top 10 for LLM
 Version 1.0 
-Published: August 1, 2023
-Japanese Published: August 28, 2023
-Japanese Updated: September 9th, 2023
+- Published: August 1, 2023
+- Japanese Published: August 28, 2023
+- Japanese Updated: September 9th, 2023
 
 
 大規模言語モデル（LLM）への熱狂的な関心には目を見張るものがあります。これは、2022年後半にマスマーケット向けにリリースされた事前学習済みチャットボットをきっかけに起きている出来事です。LLMの可能性を活用しようとする企業は、LLMを自社の業務や顧客向けサービスに急速に組み込んでいます。ただ、猛スピードでLLMが採用される一方で、包括的にセキュリティを確保する手法が間に合っておらず、多くのアプリケーションがリスクの高い状況で、脆弱なままになっています。
